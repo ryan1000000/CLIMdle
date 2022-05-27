@@ -4,6 +4,7 @@ const targetWords = [
   "cloud",
   "frost",
   "shift",
+  "trend",
   "proxy",
   "slush",
   "terra",
