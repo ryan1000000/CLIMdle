@@ -13236,7 +13236,7 @@ function checkWinLose(guess, tiles) {
 
   if (remainingTiles.length === 0) { // if no more remaining tiles
     showAlert("🚨YOU FAILED TO PREVENT CLIMATE CHANGE!🚨")
-    showAlert(`The word was: ${targetWord.toUpperCase()}, idiot!`, null)
+    showAlert(`You can always try again, unlike the real Wordle!`, null)
     stopInteraction
   }
 }
