@@ -10,11 +10,14 @@ const targetWords = [
   "proxy",
   "ozone",
   "index",
+  "model",
   "slush",
+  "risks",
   "front",
   "snirt",
   "waves",
   "earth",
+  "sleet",
   "flood",
   "curve",
   "water",
@@ -26,6 +29,7 @@ const targetWords = [
   "surge",
   "adapt",
   "snows",
+  "rainy",
   "thaws",
   "winds",
   "shear",
@@ -33,6 +37,9 @@ const targetWords = [
 ]
 
 const dictionary = [
+  "rainy",
+  "risks",
+  "sleet",
   "snirt",
   "adapt",
   "storm",
