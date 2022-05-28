@@ -16,6 +16,7 @@ const targetWords = [
   "waves",
   "earth",
   "flood",
+  "curve",
   "water",
   "swell",
   "gusts",
@@ -23,6 +24,7 @@ const targetWords = [
   "ridge",
   "vanes",
   "surge",
+  "adapt",
   "snows",
   "thaws",
   "winds",
@@ -32,6 +34,7 @@ const targetWords = [
 
 const dictionary = [
   "snirt",
+  "adapt",
   "storm",
   "gases",
   "cloud",
