@@ -1,5 +1,7 @@
 const targetWords = [
   "storm",
+  "polar",
+  "watch",
   "gases",
   "muggy",
   "frost",
@@ -18,9 +20,7 @@ const targetWords = [
   "swell",
   "gusts",
   "cloud",
-  "polar",
   "ridge",
-  "watch",
   "vanes",
   "surge",
   "snows",
