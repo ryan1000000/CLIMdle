@@ -84,8 +84,8 @@ body {
 .guess-grid {
   display: grid;
   justify-content: center;
-  grid-template-columns: repeat(5, 6em);
-  grid-template-rows: repeat(6, 6em);
+  grid-template-columns: repeat(5, 6.5em);
+  grid-template-rows: repeat(6, 6.5em);
   gap: .25em;
   margin-bottom: 1em;
   margin-top: 0;
