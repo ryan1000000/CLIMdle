@@ -7,10 +7,14 @@ const targetWords = [
   "ozone",
   "frost",
   "shift",
+  "sleet",
   "trend",
   "proxy",
   "index",
+  "clime",
+  "balmy",
   "model",
+  "clear",
   "slush",
   "risks",
   "front",
@@ -30,6 +34,7 @@ const targetWords = [
   "adapt",
   "snows",
   "rainy",
+  "foggy",
   "thaws",
   "winds",
   "shear",
@@ -38,6 +43,10 @@ const targetWords = [
 ]
 
 const dictionary = [
+  "clime",
+  "foggy",
+  "sleet",
+  "balmy",
   "solar",
   "rainy",
   "risks",
