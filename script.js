@@ -4,11 +4,11 @@ const targetWords = [
   "watch",
   "gases",
   "muggy",
+  "ozone",
   "frost",
   "shift",
   "trend",
   "proxy",
-  "ozone",
   "index",
   "model",
   "slush",
@@ -33,10 +33,12 @@ const targetWords = [
   "thaws",
   "winds",
   "shear",
-  "chill"
+  "chill",
+  "solar"
 ]
 
 const dictionary = [
+  "solar",
   "rainy",
   "risks",
   "sleet",
