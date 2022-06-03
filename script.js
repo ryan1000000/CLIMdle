@@ -21,7 +21,6 @@ const targetWords = [
   "snirt",
   "waves",
   "earth",
-  "sleet",
   "flood",
   "curve",
   "water",
