@@ -52,7 +52,6 @@ const targetWords = [
   "level",
   "omega",
   "radar",
-  "shear",
   "force",
   "anvil",
   "globe"
