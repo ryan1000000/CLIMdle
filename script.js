@@ -39,10 +39,32 @@ const targetWords = [
   "winds",
   "shear",
   "chill",
-  "solar"
+  "solar",
+  "graph",
+  "fires",
+  "freon",
+  "ocean",
+  "cycle",
+  "lapse",
+  "front",
+  "zones",
+  "scale",
+  "level",
+  "omega",
+  "radar",
+  "shear",
+  "force",
+  "anvil",
+  "globe"
 ]
 
 const dictionary = [
+  "anvil",
+  "shear",
+  "ridge",
+  "omega",
+  "lapse",
+  "freon",
   "windy",
   "clime",
   "foggy",
