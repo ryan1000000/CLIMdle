@@ -24,6 +24,8 @@ const targetWords = [
   "waves",
   "earth",
   "virga",
+  "green",
+  "house",
   "flood",
   "curve",
   "water",
@@ -64,9 +66,13 @@ const targetWords = [
   "issue",
   "micro",
   "rises",
+  "whirl",
+  "smoke",
+  "gauge"
 ]
 
 const dictionary = [
+  "whirl",
   "virga",
   "hydro",
   "warms",
