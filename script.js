@@ -23,6 +23,7 @@ const targetWords = [
   "snirt",
   "waves",
   "earth",
+  "virga",
   "flood",
   "curve",
   "water",
@@ -54,10 +55,23 @@ const targetWords = [
   "radar",
   "force",
   "anvil",
-  "globe"
+  "globe",
+  "highs",
+  "draft",
+  "warms",
+  "alter",
+  "hydro",
+  "issue",
+  "micro",
+  "rises",
 ]
 
 const dictionary = [
+  "virga",
+  "hydro",
+  "warms",
+  "highs",
+  "rises",
   "anvil",
   "shear",
   "ridge",
