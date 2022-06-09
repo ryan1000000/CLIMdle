@@ -13303,13 +13303,13 @@ function checkWinLose(guess, tiles) {
         showAlert("Nicely done. You have some serious climate skills.", 5000)
     }
     if (remainingTiles.length === 10) {  //quested it in 4
-        showAlert("You did it! I'm impressed you knew this one.", 5000)
+        showAlert("You did it! Not an easy word to get!", 5000)
     }
     if (remainingTiles.length === 5) {  //quested it in 5
-        showAlert("Got it. Might want to visit climatedata.ca and brush up on some of the lingo in the glossary though...", 5000)
+        showAlert("Good job", 5000)
     }
     if (remainingTiles.length === 0) {  //quested it in 6
-        showAlert("Yikes, that was close. Please ask your manager for some extra training.", 5000)
+        showAlert("Phew, that was close!", 5000)
     }
     danceTiles(tiles)
     stopInteraction()
