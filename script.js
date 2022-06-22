@@ -43,6 +43,7 @@ const targetWords = [
   "shear",
   "chill",
   "solar",
+  "power",
   "graph",
   "fires",
   "freon",
