@@ -64,7 +64,8 @@ const targetWords = [
   "alter",
   "micro",
   "whirl",
-  "gauge"
+  "gauge",
+  "fini ",
 ]
 
 const dictionary = [
